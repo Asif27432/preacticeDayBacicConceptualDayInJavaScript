@@ -5,7 +5,7 @@ for (let i = 0; i < numbers.length; i++) {
     const element = numbers[i];
     sum = sum + element;
 }
-// console.log(sum);
+console.log(sum);
 
 function arrayTotal(numbers) {
     let sum = 0;
